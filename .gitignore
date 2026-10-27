@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Market data (Databento license: do not redistribute)
+data/
+*.dbn
+*.dbn.zst
+*.zst
+
+# Secrets
+.env
+*.key
